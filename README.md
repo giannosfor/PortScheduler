@@ -32,3 +32,5 @@ at sea; port P1; at sea; port P2
 Then the (only) way to choose truncations would be to have the first ship
 remain in port Pz starting on day 3, and have the second ship remain in
 port P1 starting on day 2.
+
+Algorithm Design by Jon Kleinberg and Éva Tardos
