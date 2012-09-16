@@ -4,7 +4,9 @@ for each day of the month, which of the ports it’s currently visiting, or
 whether it’s out at sea. (You can assume the "month" here has m days,
 for some m > n.) Each ship visits each port for exactly one day during the
 month. For safety reasons, PSL Inc. has the following strict requirement:
-(t) No two ships can be in the same port on the same day.
+
+(†) No two ships can be in the same port on the same day.
+
 The company wants to perform maintenance on all the ships this
 month, via the following scheme. They want to truncate each ship’s
 schedule: for each ship Sg, there will be some day when it arrives in its
