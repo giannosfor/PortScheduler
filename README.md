@@ -9,7 +9,7 @@ The company wants to perform maintenance on all the ships this
 month, via the following scheme. They want to truncate each ship’s
 schedule: for each ship Sg, there will be some day when it arrives in its
 scheduled port and simply remains there for the rest of the month (for
-maintenance). This means that S1 will not visit the remaining ports on
+maintenance). This means that Si will not visit the remaining ports on
 its schedule (if any) that month, but this is okay. So the truncation of
 Si’s schedule will simply consist of its original schedule up to a certain
 specified day on which it is in a port P; the remainder of the truncated
